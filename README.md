@@ -2,14 +2,11 @@
 Boot Strap and JavaScript Tasks 
 
 # My Info <br/>
-Name - Akshit Jain <br/>
-Reg. No. - 21BRS1088 <br/>
-Work Email - akshit.jain2021a@vitstudent.ac.in <br/>
-Personal Email - akshitjain38630@gmail.com <br/>
+Name - P Harikrishna Reddy <br/>
+Reg. No. - 21BEC1041 <br/>
+Work Email - harikrishna.reddyp2021@vitstudent.ac.in <br/>
+Personal Email - harikrishna050code@gmail.com <br/>
 
 
-I have attached all the links of diffErent tasks in a single file named "index.html". You can access all the different tasks/assignments from the index file. <br/>
+Have attached all the links of diffErent tasks in a single file named "index.html".  <br/>
 <br/>
-# Tasks completed   <br/>
-Bootstrap - 5 <br/>
-JavaScript - 7 <br/>
